@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "duplicate_String",
+      "request": "launch",
+      "mainClass": "duplicate_String",
+      "projectName": "javaBasics.java_144c8b6"
+    },
+    {
+      "type": "java",
       "name": "Half_Pyramid",
       "request": "launch",
       "mainClass": "Half_Pyramid",
