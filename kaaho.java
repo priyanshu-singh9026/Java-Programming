@@ -6,8 +6,9 @@ public class kaaho {
 
         System.out.println("Original Array: " + Arrays.toString(arr));
 
-        Arrays.sort(arr); // Ascending order sort
+        Arrays.sort(arr);
 
         System.out.println("Sorted Array: " + Arrays.toString(arr));
     }
 }
+ 
