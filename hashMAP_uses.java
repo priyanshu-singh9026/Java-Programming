@@ -1,6 +1,6 @@
 import java.util.*;
 
-import javax.print.DocFlavor.STRING;
+
 public class hashMAP_uses {
     public static void main(String args[]){
         HashMap<String, Integer> map= new HashMap<>();
