@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Maximum_Array_Using_Recursion",
+      "request": "launch",
+      "mainClass": "Maximum_Array_Using_Recursion",
+      "projectName": "javaBasics.java_c9beba89"
+    },
+    {
+      "type": "java",
       "name": "duplicate_String",
       "request": "launch",
       "mainClass": "duplicate_String",
